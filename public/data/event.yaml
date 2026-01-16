@@ -1,0 +1,38 @@
+events:
+  - id: 101
+    name: "Starlight Jazz Night"
+    organizer: "Blue Note Productions"
+    venue: "The Grand Oak Amphitheater"
+    date: 2026-06-20
+    is_event_done: false
+    category: "Music"
+    image_url: "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    description: >
+      Under the glow of a summer moon, the valley will echo with the 
+      smooth sounds of world-class saxophonists. This evening is more 
+      than a concert; it's a journey through the history of rhythm, 
+      featuring local gourmet food trucks and an open-air dance floor 
+      where memories are made under the stars.
+    evaluationLink: "https://www.youtube.com/watch?v=1-dNCte3QvM"
+
+  - id: 102
+    name: "Retro Gaming Expo"
+    organizer: "Pixel Hearts Collective"
+    venue: "Downtown Tech Hub"
+    date: 2026-01-16
+    is_event_done: false
+    category: "Gaming"
+    image_url: "https://plus.unsplash.com/premium_photo-1677870728119-52aef052d7ef?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    description: "A nostalgic trip back to the 8-bit era with over 50 playable cabinets."
+    evaluationLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+
+  - id: 103
+    name: "Summer Food Festival"
+    organizer: "Panao Culinary Guild"
+    venue: "Central Plaza"
+    date: 2026-01-16 
+    is_event_done: false
+    category: "Workshops"
+    image_url: "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3"
+    description: "Happening right now at the plaza!"
+    evaluationLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
